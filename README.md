@@ -1,5 +1,5 @@
 # occc
 occc project
 
-needed to have node installed to run
+needs node installed on computer to run
 open folder in terminal and type node app.js
