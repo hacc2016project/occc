@@ -16,6 +16,12 @@ app.get('/visitor', function(req, res){
   res.sendFile(__dirname+'/visitor/visitor.html');
 });
 
+// admin  route
+app.get('/admin', function(req, res){
+  res.sendFile(__dirname+'/admin/admin.html');
+});
+
+
 
 // This route receives the posted form.
 // As explained above, usage of 'body-parser' means
