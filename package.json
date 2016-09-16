@@ -18,6 +18,8 @@
   "homepage": "https://github.com/hacc2016project/hacc2016#readme",
   "dependencies": {
     "body-parser": "^1.15.2",
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "node": "0.0.0",
+    "schedule": "^0.1.0"
   }
 }
